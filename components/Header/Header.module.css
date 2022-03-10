@@ -1,0 +1,23 @@
+.container {
+    padding: 8px;
+    box-shadow: 3px 3px 11px 3px rgb(0 0 0 / 32%);
+    max-width: 1400px;
+    margin: auto;
+    
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    font-size: medium;
+    margin: 0px 15px;
+    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace;
+    text-decoration-line: underline;
+    border-right-style: solid;
+    padding: 3px;
+}
